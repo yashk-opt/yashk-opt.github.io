@@ -27,6 +27,6 @@ latest_posts:
   limit: 3
 ---
 
-I am a Ph.D. candidate in Operations Research at the University of Texas at Austin, where I also completed an M.S. in Statistics. I am primarily advised by Prof. Raghu Bollapragada, and co-advised by Prof. Benjamin Leibowicz. My research focuses on large-scale nonlinear stochastic constrained optimization, with applications in power systems, communication networks, and fair AI.
+I am a Ph.D. candidate in Operations Research at the University of Texas at Austin, where I also completed an M.S. in Statistics. I am primarily advised by Prof. Raghu Bollapragada, and co-advised by Prof. Benjamin D. Leibowicz. My research focuses on large-scale nonlinear stochastic constrained optimization, with applications in power systems, communication networks, and fair AI.
 
-Previously, I completed an M.S. in Energy Science at Carnegie Mellon University and a B.Tech. in Electrical Engineering at IIT Delhi. I have also worked on dynamic optimization and data-driven systems as a Research Scientist Intern at Amazon FBA Science and as a Staff Engineer supporting the U.S. Department of Energy.
+Previously, I completed an M.S. in Energy Science at Carnegie Mellon University and a B.Tech. in Electrical Engineering at IIT Delhi. I have also developed data-driven optimization models for complex marketplace ecosystems at Amazon, as well as for power systems analysis at the U.S. Department of Energy.
