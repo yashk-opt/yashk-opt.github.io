@@ -1,6 +1,7 @@
 ---
 layout: about
-title: about
+title: About
+nav_order: 1
 permalink: /
 subtitle: '<a href="https://www.utexas.edu/">UT Austin</a> · Operations Research &amp; Statistics'
 
@@ -14,7 +15,7 @@ profile:
     <p>Austin, TX</p>
 
 selected_papers: true
-social: false
+social: true
 
 announcements:
   enabled: false
