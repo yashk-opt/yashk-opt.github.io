@@ -3,7 +3,7 @@ layout: about
 title: About
 nav_order: 1
 permalink: /
-subtitle: '<a href="https://www.utexas.edu/">UT Austin</a> · Operations Research &amp; Statistics'
+subtitle: '<a href="https://www.utexas.edu/">UT Austin</a> · Operations Research and Industrial Engineering | Statistics'
 
 profile:
   align: right
