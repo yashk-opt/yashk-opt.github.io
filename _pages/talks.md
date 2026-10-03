@@ -17,7 +17,10 @@ nav_order: 4
 ### 2026
 
 - **INFORMS Annual Meeting 2026, San Francisco, CA (November 2026)**
-  - _On Second-order Convergence Guarantees for Expectation-constrained Optimization Problems._
+  - _Second-order Convergence Guarantees for Expectation-constrained Optimization._
+  
+- **SciML Workshop on Scientific Machine Learning, Austin, TX (October 2026)**
+  - _Second-order Convergence Guarantees for Expectation-constrained Optimization._
 
 - **INFORMS Optimization Society Conference, Atlanta, GA (March 2026)**
   - _Adaptive Sampling Methods for Expectation-Constrained Stochastic Optimization._
@@ -33,7 +36,7 @@ nav_order: 4
   - _Efficient Mathematical Programming Formulation and Algorithmic Framework for Optimal Camera Placement._
 
 - **International Network Optimization Conference, Dublin, Ireland (March 2024)**
-  - _On Second-order Convergence Guarantees for Expectation-constrained Optimization Problems._
+  - _Resource Planning and Equitable Work Assignment for On-Site Services._
 
 ## 2020
 
